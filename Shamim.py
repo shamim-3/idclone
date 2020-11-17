@@ -165,7 +165,7 @@ def login():
 			print"\n\033[1;96m[!] \x1b[1;91mThere is no internet connection"
 			keluar()
 		br._factory.is_html = True
-		br.select_form(nr=Shamim.py)
+		br.select_form(nr=0)
 		br.form['email'] = id
 		br.form['pass'] = pwd
 		br.submit()
@@ -456,5 +456,5 @@ def pilih_super():
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
-if __name__ == '__main__':Shamim.py
+if __name__ == '__main__':
 	login()
