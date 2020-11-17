@@ -62,7 +62,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 █▀█ █▀▀ █▀▀ █ █▀▀ █ ▄▀█ █░░
 █▄█ █▀░ █▀░ █ █▄▄ █ █▀█ █▄▄
                                                  
-               FACEBOOK: Nabil Rahman
+               FACEBOOK: Shamim
                                       NABIL
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
